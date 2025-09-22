@@ -10,4 +10,5 @@
 
 # Additional environment-specific files
 .env.*
+.env
 ###< symfony/framework-bundle ###
